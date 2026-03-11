@@ -4,12 +4,11 @@
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&width=500&lines=Play+great+games;Build+real+games;Never+stop+learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&width=500&lines=Play+great+games!;Build+real+games!;Keep+learning!"
     alt="Typing SVG"
   />
 </p>
 
----
 ## 🛠 Tech Stack
 
 ### Backend Development
