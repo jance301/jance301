@@ -35,16 +35,6 @@
 <br>MongoDB
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-<br>JavaScript
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-<br>Python
-</td>
-
 </tr>
 </table>
 
